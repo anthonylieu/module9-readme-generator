@@ -20,9 +20,8 @@ To start use npm install in the command line then use npm install inquire
 
 ## Usage
 
-Use node.js to make a clean readme
-To run test use the command with index.js
-You can get in you with my email or git hub at the bottom
+<br>Use node.js to make a clean readme</br>
+<br>To run test, use the command with index.js</br>
 
 ## License
 
