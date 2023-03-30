@@ -1,34 +1,34 @@
-# Readme Generator
 
 
+  # README Generator
+
+  ![GitHub](https://img.shields.io/github/license/anthonylieu/redesigned-adventure)
+  
 ## Description
 
-App used to make a easy to read readme
+shows how to use a README
 
-## Table of Contents
+## table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
+## installation
 
 ```
-To start use npm install in the command line then use npm install inquire
+To start, use npm install in the command line, then use npm install inquire
 ```
 
-## Usage
-
-<br>Use node.js to make a clean readme</br>
-<br>To run test, use the command with index.js</br>
-
-## License
-
+## usage
+Use node.js to make a clean README.  To run test, use the command with index.js.
+ Help make a clean README
+ Use the Questions section to get in touch
+## license
 MIT
 
 ## Questions
 
-GitHub: https://github.com/anthonylieu
+GitHub: anthonylieu
 
 Email: anthonylieu1@gmail.com
