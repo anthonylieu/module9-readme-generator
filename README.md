@@ -6,8 +6,8 @@
   
 ## Description
 
-Shows how to use a README
-Please refer to demo.gif for video walkthrough
+<br>Shows how to use a README</br>
+<br>Please refer to demo.gif for video walkthrough</br>
 
 ## Table of Contents
 * [Installation](#installation)
