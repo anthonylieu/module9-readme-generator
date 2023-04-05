@@ -6,25 +6,26 @@
   
 ## Description
 
-shows how to use a README
+Shows how to use a README
+Please refer to demo.gif for video walkthrough
 
-## table of Contents
+## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
-## installation
+## Installation
 
 ```
 To start, use npm install in the command line, then use npm install inquire
 ```
 
-## usage
+## Usage
 Use node.js to make a clean README.  To run test, use the command with index.js.
  Help make a clean README
  Use the Questions section to get in touch
-## license
+## License
 MIT
 
 ## Questions
