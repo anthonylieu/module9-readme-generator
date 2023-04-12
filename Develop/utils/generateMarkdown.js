@@ -45,28 +45,28 @@ ${renderLicenseBadge(github, repo)}
 
 ${description}
 
-## table of Contents
+## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
-## installation
+## Installation
 
 \`\`\`
 ${installation}
 \`\`\`
 
-## usage
+## Usage
 ${usage}
  ${tests}
  ${contributing}
-## license
+## License
 ${licenses}
 
 ## Questions
 
-GitHub: ${github}
+[GitHub](https://github.com/${github})
 
 Email: ${email}
 `;
